@@ -11,6 +11,8 @@ So if this version doesn't work on your system, try one of the repos listed abov
 
 Hit `B` to add a bookmark, `shift+B` to view bookmarks.
 
+The "bookmarks" are merely text beginning with an asterisk.
+
 ## Requirements
 
 `lua-lgi` installed (`$ dnf install lua-lgi` for example).
